@@ -1,5 +1,5 @@
 <?php
-const PATH = '你的vue项目的src目录';
+const PATH = '你的vue项目的src路径';
 
 getPath(my_dir(PATH), PATH);
 echo '------------------------end------------------------';
